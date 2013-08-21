@@ -8,7 +8,7 @@ body{
     font-family:Helvetica, Ariel, sans-serif;
     font-size: 14px;
     background-color:#66ffcc;
-    border-width: 2px;
+    border-width: 0px;
     border-color:#cccccc;}
 
 #content {
@@ -32,6 +32,7 @@ body{
     width: 300px;
     float: left;
     margin: 10px;}
+
 li {
     display: inline;
     padding: 5px;}
