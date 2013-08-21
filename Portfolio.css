@@ -9,20 +9,21 @@ body{
     font-size: 14px;
     background-color:#66ffcc;
     border-width: 2px;
-    border-color:#cccccc;
     padding: 20px;}
 
-#content {
+content {
     overflow: auto;
     height: 100%;}
 
-#nav, #footer {
+nav, footer {
     background-color:#000000;
-    padding: 0px;
+    padding: 5px;
     margin: 0px;
-    width: 800px;}
+    width: 0 auto;
+    align-self:center;
+    align-content:center;}
 
-#feature {
+feature {
     background-color:#ffffff;
     padding: 0px;
     margin: 0px;
@@ -41,13 +42,12 @@ li {
 h1, h2, h3 {
     color: #ffffff;
     background-color:#000000; 
-    text-shadow: 1px 1px #D8D8D8;
+    text-shadow: 0px 0px #D8D8D8;
     text-align:center;
     padding: 10px;
     margin: 10px;}
 
-#header {
-    width: 800px;
+header {
+    width: 100%;
     background-color: #000000;
-    border-width: 2px;
-    border-color: #d8d8d8;}
+    border-width: 1px;}
