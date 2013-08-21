@@ -5,11 +5,12 @@ html {
 body{
     width: 800px;
     margin: 0 auto;
-    font-family:Helvetica, Ariel, sans-serif;
+    font-family:Helvetica, Helvetica Neue, sans-serif;
     font-size: 14px;
     background-color:#66ffcc;
-    border-width: 0px;
-    border-color:#cccccc;}
+    border-width: 2px;
+    border-color:#cccccc;
+    padding: 20px;}
 
 #content {
     overflow: auto;
@@ -19,7 +20,7 @@ body{
     background-color:#000000;
     padding: 0px;
     margin: 0px;
-    width: 100%;}
+    width: 800px;}
 
 #feature {
     background-color:#ffffff;
@@ -44,3 +45,9 @@ h1, h2, h3 {
     text-align:center;
     padding: 10px;
     margin: 10px;}
+
+#header {
+    width: 800px;
+    background-color: #000000;
+    border-width: 2px;
+    border-color: #d8d8d8;}
