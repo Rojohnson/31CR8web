@@ -1,1 +1,5 @@
-body { padding-top: 70px; color: blue; }
+body { padding-top: 70px; background-color: #d8d8d8; }
+
+.navbar-header { position:fixed; height: 50px; width: 100px; display:inline-block;  float:inherit;  border:  2px solid #0080ff; margin-bottom: 5px; }
+
+#home-banner {width: 1140px; height: 300px; float:none; padding-top: 5px; background-color: #0080ff; margin-top: 5px; margin-bottom: 5px; color: white; }  
