@@ -1,7 +1,9 @@
-body { padding-top: 70px; background-color: #d8d8d8; }
+body { padding-top: 0px; background-color: #d8d8d8; }
 
-.navbar-header { display:inline-block; width: 1140px; background-color: white; border:  2px solid ; margin-bottom: 5px; }
+.navbar-header { display:inline-block; width: 1140px; height: 100px; background-color: #0080ff; border:  2px solid ; margin-bottom: 5px; }
 
-li { float:left; display:inline-block; width: 80px ; height: 30px; padding: 25px 15px 15px 15px;  background-color: #0080ff; text-align:center; border: 2px solid white;  }
+li { float:left; display:inline-block; width: 100px ; height: 61px; padding: 45px 15px 0px 15px; margin-top: -18px; margin-left: -1px; background-color: #0080ff; text-align:center; border-left: 1px solid white; border-right: 1px solid white;  }
+
+nav div ul li {  font: 25px Verdana Helvetica sans-serif; color: white; text-align:center; }
 
 #home-banner {width: 1140px; height: 300px; float:left; padding-top: 5px; background-color: #0080ff; margin-top: 5px; margin-bottom: 5px; color: white; }  
